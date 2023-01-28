@@ -2,6 +2,7 @@
 
 My name is Frank and I do software since 23 years. I mainly do web apps. In 2017, 
 I founded CGWire, a company aiming at improving collaboration in animation studios.
+For that we delevop Kitsu, a production management platform.
 
 A few things about me:
 
